@@ -30,17 +30,6 @@ $(".saveBtn").on("click", function () {
 for (var i = 0; i < hrs.length; i++) { 
   $("#" + hrs[i]).val(localStorage.getItem(hrs[i])); 
 }
-
-// var seconds = moment().format("ss");
-// setInterval( function(){
-//   console.log(seconds)
-//   if (seconds >= 59 ){
-//     seconds = 0
-//     $("#currentDay").text(today.format("MMM Do, YYYY, hh:mm:ss"));
-//   }
-//   else {
-//     seconds = seconds+1
-//   }
-// },1000) 
+ 
 
 });

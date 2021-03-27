@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'New Tegomin', serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -25,9 +25,10 @@ textarea {
   white-space: pre-wrap;
 }
 
-.time-block {
+.time-slot {
   text-align: center;
   border-radius: 15px;
+  
 }
 
 .row {
@@ -68,4 +69,8 @@ textarea {
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+}
+
+footer {
+  margin-top: 80px;
 }
