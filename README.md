@@ -5,4 +5,4 @@ This is a standard work day scheduler, with dynamic date and time. What we did w
 
 [GIT HUB](https://github.com/Farrancampbell/work_day_scheduler)
 
-![Screenshot](./Assets/CSS/Screen Shot 2021-03-27 at 3.40.18 PM.png)
+![Screenshot]("./Assets/CSS/Screen Shot 2021-03-27 at 3.40.18 PM.png")
